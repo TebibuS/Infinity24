@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-
+https://imgur.com/kPQxL2K
 
 GIF created with - [ScreenToGif](https://www.screentogif.com/) for Windows
 
